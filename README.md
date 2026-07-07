@@ -1,15 +1,41 @@
-# Patitas Care Static
+# Patitas Care - Static Landing Page
 
-Sitio estatico base para Patitas Care.
+Landing page de demostración para una clínica veterinaria local.
 
-## Archivos
+## Objetivo
 
-- `index.html`: estructura principal de la pagina.
-- `styles.css`: estilos visuales.
-- `script.js`: interaccion basica.
-- `assets/`: recursos como imagenes, iconos o fuentes.
-- `screenshots/`: capturas del sitio.
+Crear una página web sencilla, moderna y responsive para presentar servicios veterinarios y facilitar la solicitud de citas por WhatsApp.
 
-## Uso
+## Herramientas utilizadas
 
-Abre `index.html` en el navegador para ver el sitio.
+- HTML
+- CSS
+- JavaScript
+- Git/GitHub
+- GitHub Pages
+
+## Secciones
+
+- Header
+- Hero
+- Servicios
+- Beneficios
+- Sobre nosotros
+- Cómo agendar
+- Testimonios
+- Preguntas frecuentes
+- Contacto
+- Footer
+
+## Funcionalidades
+
+- Diseño responsive
+- Menú mobile
+- Navegación con smooth scroll
+- Botón de WhatsApp
+- FAQ interactivo
+- Formulario con mensaje de confirmación
+
+## Nota
+
+Este proyecto fue creado con fines de portafolio freelance.
