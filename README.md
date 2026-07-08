@@ -41,7 +41,6 @@ The goal is to present veterinary services and encourage users to book an appoin
 
 ![Home desktop](screenshots/home-desktop.png)
 
-![Mobile views](screenshots/home-mobile.png)
 
 
 
