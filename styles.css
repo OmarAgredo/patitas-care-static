@@ -130,10 +130,8 @@ p { color: var(--secondary); }
 .hero-text { max-width: 650px; margin-bottom: 28px; font-size: 1.1rem; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 18px; }
 .trust-note { margin-bottom: 0; color: var(--dark); font-weight: 800; }
-.hero-card { position: relative; overflow: hidden; padding: 24px; }
-.hero-card::before { content: ""; position: absolute; inset: 18px 18px auto auto; width: 86px; height: 86px; border-radius: 999px; background: rgba(255, 184, 77, 0.28); }
-.pet-illustration { position: relative; display: grid; min-height: 260px; place-items: center; }
-.pet-illustration svg { width: min(100%, 340px); }
+.hero-card { display: grid; gap: 18px; overflow: hidden; padding: 18px; }
+.hero-image { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 18px; box-shadow: 0 14px 32px rgba(36, 49, 61, 0.14); }
 .hero-stats { display: grid; grid-template-columns: 1fr; gap: 12px; }
 .hero-stats div { padding: 16px; border-radius: 16px; background: var(--light); }
 .hero-stats strong, .hero-stats span { display: block; }
@@ -216,3 +214,4 @@ p { color: var(--secondary); }
   .hero-actions .btn { width: 100%; }
   .hero-card, .card, .benefit-card, .step-card, .testimonial-card, .contact-form { border-radius: 18px; }
 }
+

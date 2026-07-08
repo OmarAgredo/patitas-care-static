@@ -30,7 +30,7 @@ Crear una página web sencilla, moderna y responsive para presentar servicios ve
 ## Funcionalidades
 
 - Diseño responsive
-- Menú mobile
+- Menú móvil
 - Navegación con smooth scroll
 - Botón de WhatsApp
 - FAQ interactivo
