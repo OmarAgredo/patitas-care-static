@@ -1,12 +1,27 @@
 # Patitas Care - Static Landing Page
 
-Landing page de demostración para una clínica veterinaria local.
+Responsive landing page for a fictional veterinary clinic.
 
-## Objetivo
+## Overview
 
-Crear una página web sencilla, moderna y responsive para presentar servicios veterinarios y facilitar la solicitud de citas por WhatsApp.
+Patitas Care is a demo landing page created as a freelance portfolio project.  
+The goal is to present veterinary services and encourage users to book an appointment through WhatsApp.
 
-## Herramientas utilizadas
+## Features
+
+- Responsive design
+- Hero section with CTA
+- Services cards
+- Benefits section
+- About section
+- Booking steps
+- Testimonials
+- FAQ accordion
+- Contact form UI
+- WhatsApp CTA
+- Mobile menu
+
+## Technologies
 
 - HTML
 - CSS
@@ -14,28 +29,19 @@ Crear una página web sencilla, moderna y responsive para presentar servicios ve
 - Git/GitHub
 - GitHub Pages
 
-## Secciones
+## Live Demo
 
-- Header
-- Hero
-- Servicios
-- Beneficios
-- Sobre nosotros
-- Cómo agendar
-- Testimonios
-- Preguntas frecuentes
-- Contacto
-- Footer
+[View live demo](https://omaragredo.github.io/patitas-care-static/)
 
-## Funcionalidades
+## Case Study
 
-- Diseño responsive
-- Menú móvil
-- Navegación con smooth scroll
-- Botón de WhatsApp
-- FAQ interactivo
-- Formulario con mensaje de confirmación
+[View PDF case study](portfolio/patitas-care-case-study.pdf)
 
-## Nota
+## Screenshots
 
-Este proyecto fue creado con fines de portafolio freelance.
+![Home desktop](screenshots/home-desktop.png)
+
+![Mobile views](screenshots/home-mobile.png)
+
+
+
